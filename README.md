@@ -19,7 +19,6 @@
 
 ## 安装 & 启动
 
-需要切换成公司npm私服
 
 可以使用[nrm](https://github.com/Pana/nrm)管理npm registry
 
@@ -37,7 +36,7 @@ $ yarn config set registry http://172.16.132.188:4873/
 
 下载
 ```
-$ git clone http://192.168.120.68/root/suixingpay-fe-admin.git your-project-name
+$ git clone https://github.com/fikyair/ReactALL.git
 ```
 
 安装依赖
